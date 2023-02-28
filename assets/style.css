@@ -1,0 +1,40 @@
+
+
+#title{
+    font-size: 55px;
+}    
+.first-button{
+ background-color: deepskyblue ;
+ margin-left: 240px;
+ margin-top: 75px;
+}
+.first-ul{
+    margin-left: 240px;
+    margin-top: 75px;
+    list-style: none;
+}
+.second-button{
+    background-color: deepskyblue;
+}
+.blue-button{
+    background-color: deepskyblue;
+
+}
+.first-none{
+    list-style-type: none;
+}
+#purple-button{
+    background-color: blueviolet ;
+}
+#green-button{
+    background-color: green;
+}
+#orange-button{
+    background-color: orange;
+}
+#pink-button{
+    background-color: fuchsia;
+}
+#yellow-button{
+    background-color: olive;
+}
