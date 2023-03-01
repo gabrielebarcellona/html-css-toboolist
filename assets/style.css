@@ -4,9 +4,8 @@ background-color: lavender;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 20px;
 }
-html{
-font-style: 
-}
+
+
 .container{
     margin: auto;
     max-width: 900px;background-color: white;
@@ -32,44 +31,50 @@ header{
 
 .first-button{
  background-color: deepskyblue ;
+ color: white;
 
 }
 
 
 .second-button{
-    background-color: deepskyblue;
+    background-color: white;
+    color: grey;
 }
 .blue-button{
     background-color: deepskyblue;
     border-radius: 20px;
+    color: white;
 
 }
 .first-none{
     list-style-type: none;
 }
 
-#purple-button{
+.purple-button{
     background-color: blueviolet ;
     border-radius: 20px;
+    color: white;
 
 }
-#green-button{
+.green-button{
     background-color: green;
     border-radius: 20px;
+    color: white;
 
 }
-#orange-button{
+.orange-button{
     background-color: orange;
     border-radius: 20px;
+    color: white;
 
 }
-#pink-button{
+.pink-button{
     background-color: fuchsia;
     border-radius: 20px;
+    color: white;
 
 }
-#yellow-button{
+.yellow-button{
     background-color: olive;
     border-radius: 20px;
-
-}
+    color: white;
