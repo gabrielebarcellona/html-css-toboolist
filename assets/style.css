@@ -1,17 +1,21 @@
+
 body{
 background-color: lavender;
 font-family: Verdana, Geneva, Tahoma, sans-serif;
 font-size: 20px;
 }
-
+html{
+font-style: 
+}
 .container{
     margin: auto;
-    max-width: 1100px;background-color: white;
+    max-width: 900px;background-color: white;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    height: 500px
+    height: 600px
     ;
     margin-top: 50px;
-   
+    border-radius: 5px;
+    margin-left: 200px;
 }
 
 
