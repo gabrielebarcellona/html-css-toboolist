@@ -16,7 +16,8 @@ font-size: 20px;
 
 
 #title{
-    font-size: 55px;
+    font-size: 35px;
+    vertical-align:20px;
 }    
 header{
     background-color: white;
