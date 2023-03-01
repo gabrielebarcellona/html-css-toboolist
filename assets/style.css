@@ -36,6 +36,7 @@ header{
 }
 .blue-button{
     background-color: deepskyblue;
+    border-radius: 20px;
 
 }
 .first-none{
@@ -44,16 +45,26 @@ header{
 
 #purple-button{
     background-color: blueviolet ;
+    border-radius: 20px;
+
 }
 #green-button{
     background-color: green;
+    border-radius: 20px;
+
 }
 #orange-button{
     background-color: orange;
+    border-radius: 20px;
+
 }
 #pink-button{
     background-color: fuchsia;
+    border-radius: 20px;
+
 }
 #yellow-button{
     background-color: olive;
+    border-radius: 20px;
+
 }
